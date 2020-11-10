@@ -78,15 +78,8 @@ background-size: cover;
 .text-nav-item:focus,
 .menu-link-bell:focus,
 .popup-item:focus,
-<<<<<<< HEAD
 .more-button:focus + .show-more,
 .search-icon:focus {
-||||||| 18b81b5
-.show-more:focus {
-=======
-.show-more:focus,
-.search-icon:focus {
->>>>>>> dcecefb2315ccb0eb3603c8843ba5713563e957e
   outline: 2px solid hsl(0, 0%, 75%);
   border-radius: 2px;
   transition-duration: 0.5s;
